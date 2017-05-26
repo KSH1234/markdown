@@ -25,7 +25,8 @@ _______________________________________
 4. 나우리형 인성
 _______________________________________
 > [학교 홈페이지 링크](http://www.koreatech.ac.kr/kor.do)
-
+> [KOREATECH] [1]
+[1]:http://el.koreatech.ac.kr/ilos/main/main_form.acl
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
@@ -47,6 +48,6 @@ print s
 |2014년 |85.9%|
 |*2015년*|**83.2%**|
 
-![PICTURE](http://el.koreatech.ac.kr/ilos/images/osms/koreatech/ko/logo.gif)
+![PICTURE](http://happybean.phinf.naver.net/20170418_289/roadbell_14925073331384kzQN_PNG/KJM_THE_ART_OF_RAP_IN_KOREA.png)
 
 
