@@ -25,7 +25,9 @@ _______________________________________
 4. 나우리형 인성
 _______________________________________
 > [학교 홈페이지 링크](http://www.koreatech.ac.kr/kor.do)
+
 [KOREATECH][1]
+
 [1]: http://el.koreatech.ac.kr/ilos/main/main_form.acl
 
 ```javascript
