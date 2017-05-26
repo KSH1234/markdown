@@ -47,6 +47,6 @@ print s
 |2014년 |85.9%|
 |*2015년*|**83.2%**|
 
-![PICTURE] (http://el.koreatech.ac.kr/ilos/images/osms/koreatech/ko/logo.gif)
+![PICTURE](http://el.koreatech.ac.kr/ilos/images/osms/koreatech/ko/logo.gif)
 
 
